@@ -1,0 +1,21 @@
+{
+  "name": "Wicue E-Learning Platform",
+  "short_name": "Wicue",
+  "description": "Comprehensive e-learning platform for students, lecturers, and administrators",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://uploadthingy.s3.us-west-1.amazonaws.com/nDBxsCJ1wmS255PkaXhWei/d2b35c18-e09c-4a84-9f92-4e7a93fe9c66_%281%29.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploadthingy.s3.us-west-1.amazonaws.com/nDBxsCJ1wmS255PkaXhWei/d2b35c18-e09c-4a84-9f92-4e7a93fe9c66_%281%29.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
